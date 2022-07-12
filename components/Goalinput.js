@@ -31,7 +31,6 @@ function GoalInput(props) {
           <View style={styles.button}>
           <Button title="Cancel" onPress={props.setVisible} color={'red'} />
           </View>
-          <Text>this is a test</Text>
         </View>
       </View>
     </Modal>
